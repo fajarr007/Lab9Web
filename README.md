@@ -17,3 +17,7 @@ Pertama-tama membuka XAMPP, lalu kalian buat file baru dengan nama **header.php*
 ![p](gambar/sshome.png)<br>
 
 
+**Buat file baru dengan nama about.php**<br>
+![p](gambar/ss5.png)<br>
+![p](gambar/ssabout.png)<br>
+
